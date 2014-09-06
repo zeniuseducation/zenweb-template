@@ -1,4 +1,4 @@
-(defproject zenweb/lein-template "0.1.1"
+(defproject zenweb/lein-template "0.1.2"
   :description "Luminus based lein template for beginners"
   :url "http://github.com/squest/zenweb-template"
   :license {:name "Eclipse Public License"
