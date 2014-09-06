@@ -1,0 +1,51 @@
+.zpanel1 {
+  background-color: rgba(0, 97, 158, 0.05);
+  padding: 0.5em 1em 1em 1.2em;
+  border: thin solid rgba(0, 97, 158, 0.5); }
+  .zpanel1 h2, .zpanel1 h3, .zpanel1 h4, .zpanel1 h5, .zpanel1 h6 {
+    color: #00619e; }
+  .zpanel1 a {
+    color: #00619e; }
+
+.hl1 {
+  border-bottom: thin solid rgba(0, 97, 158, 0.5);
+  margin-bottom: 1em; }
+
+.zpanel2 {
+  background-color: rgba(0, 158, 37, 0.05);
+  padding: 0.5em 1em 1em 1.2em;
+  border: thin solid rgba(0, 158, 37, 0.5); }
+  .zpanel2 h2, .zpanel2 h3, .zpanel2 h4, .zpanel2 h5, .zpanel2 h6 {
+    color: #009e25; }
+  .zpanel2 a {
+    color: #009e25; }
+
+.hl2 {
+  border-bottom: thin solid rgba(0, 158, 37, 0.5);
+  margin-bottom: 1em; }
+
+.zpanel3 {
+  background-color: rgba(90, 0, 158, 0.05);
+  padding: 0.5em 1em 1em 1.2em;
+  border: thin solid rgba(90, 0, 158, 0.5); }
+  .zpanel3 h2, .zpanel3 h3, .zpanel3 h4, .zpanel3 h5, .zpanel3 h6 {
+    color: #5a009e; }
+  .zpanel3 a {
+    color: #5a009e; }
+
+.hl3 {
+  border-bottom: thin solid rgba(90, 0, 158, 0.5);
+  margin-bottom: 1em; }
+
+.zpanel4 {
+  background-color: rgba(158, 0, 42, 0.05);
+  padding: 0.5em 1em 1em 1.2em;
+  border: thin solid rgba(158, 0, 42, 0.5); }
+  .zpanel4 h2, .zpanel4 h3, .zpanel4 h4, .zpanel4 h5, .zpanel4 h6 {
+    color: #9e002a; }
+  .zpanel4 a {
+    color: #9e002a; }
+
+.hl4 {
+  border-bottom: thin solid rgba(158, 0, 42, 0.5);
+  margin-bottom: 1em; }
