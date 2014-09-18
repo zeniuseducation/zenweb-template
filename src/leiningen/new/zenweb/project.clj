@@ -24,7 +24,7 @@
                  [om "0.7.1"]
                  [com.ashafa/clutch "0.4.0-RC1"]
                  [couchbase-clj "0.2.0"]
-                 [zenedu.squest/questdb "0.2.0"]
+                 [zenedu.squest/questdb "0.2.2"]
                  [expectations "2.0.9"]]
   
   :cljsbuild {:builds
